@@ -1,4 +1,2 @@
 # C-
 practice
-
-Hello!!
